@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Carlos Antonio Florindo",
+      "email": "carlosantoni@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Christian Ribeiro Gama Franco",
+      "email": "chrisribgama3@gmail.com"
+    }
+  ]
+}
