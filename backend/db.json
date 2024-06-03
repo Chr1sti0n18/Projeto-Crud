@@ -3,12 +3,14 @@
     {
       "id": 1,
       "name": "Arthur Oliveira",
-      "email": "aoliveira@cod3r.com.br"
+      "email": "aoliveira@cod3r.com.br",
+      "age": "23"
     },
     {
       "id": 2,
       "name": "Maria Julia da Silva",
-      "email": "mjds@empresa.com"
+      "email": "mjds@empresa.com",
+      "age": "78"
     }
   ]
 }
