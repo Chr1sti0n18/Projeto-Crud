@@ -4,8 +4,7 @@
   "description": "",
   "main": "db.json",
   "scripts": {
-    "start": "json-server --watch db.json --port 3001",
-    "build": "json-server --watch db.json --port 3001"
+    "start": "json-server --watch db.json --port 3001"
   },
   "keywords": [],
   "author": "",
